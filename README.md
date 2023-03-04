@@ -1,7 +1,9 @@
 <h1 align="center">Hello Guys! 👋 </h1>
 <h3 align="left">I'm Sanjay...</h3>
 
-- 🔎 I’m looking for a partner with whom I can learn and do stuff together
+- 👂Listener....
+
+- 🔎 I’m looking for a partner with whom I can learn and do stuff together.
 
 - 📫 How to reach me **murugeshsanjay479@gmail.com**
 
